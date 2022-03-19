@@ -1,5 +1,6 @@
-# Existence SMP
+![](https://cdn.discordapp.com/attachments/399433916605530113/954579712297025547/existence-title-flat-shadow-1920px-slim.png)
 
-Welcome to the Existence SMP Community! We’re an online Minecraft community established in March 2016.
+### Welcome to the Existence SMP Community! 
+We’re an online Minecraft community established in March 2016.
 
-Over the past few years we’ve had 3 primary YouTube based series and are now focusing on creating a more open Minecraft community with our [Community Server](https://existencesmp.com/server). 
+Here you'll find the source code behind our [website](https://existencesmp.com) as well as the datapacks that power our wonderful [Community Server](https://existencesmp.com/server).
