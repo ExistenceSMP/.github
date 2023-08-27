@@ -1,4 +1,4 @@
-![](https://cdn.discordapp.com/attachments/399433916605530113/954579712297025547/existence-title-flat-shadow-1920px-slim.png)
+![](https://existencesmp.com/images/titles/existence-title-shadow-1920px-slim.png)
 
 ### Welcome to the Existence SMP Community! 
 We’re an online Minecraft community established in March 2016.
