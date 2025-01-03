@@ -1,4 +1,4 @@
-![](https://existencesmp.com/images/titles/existence-title-shadow-1920px-slim.png)
+![](https://existencesmp.com/images/titles/existence-title-red-slim.png)
 
 ### Welcome to the Existence Community! 
 We’re an online Minecraft community established in March 2016.
